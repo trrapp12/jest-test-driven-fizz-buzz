@@ -1,5 +1,6 @@
 {
   "name": "jest-test-driven-fizzbuzz",
+  "private": "true",
   "version": "1.0.0",
   "description": "a tutorial from \"Test-Driven React\" that utilizes Jest to practice elementary unit testing",
   "main": "index.js",
