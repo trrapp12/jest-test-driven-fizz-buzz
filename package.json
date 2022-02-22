@@ -1,0 +1,27 @@
+{
+  "name": "jest-test-driven-fizzbuzz",
+  "version": "1.0.0",
+  "description": "a tutorial from \"Test-Driven React\" that utilizes Jest to practice elementary unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trrapp12/jest-test-driven-fizz-buzz.git"
+  },
+  "keywords": [
+    "Jest",
+    "TDD",
+    "test",
+    "driven",
+    "development",
+    "React"
+  ],
+  "author": "work done by Trevor Rapp as personal development, all instructions taken from \"Test Driven React\" by Trevor Burnham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trrapp12/jest-test-driven-fizz-buzz/issues"
+  },
+  "homepage": "https://github.com/trrapp12/jest-test-driven-fizz-buzz#readme"
+}
