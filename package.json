@@ -5,7 +5,7 @@
   "description": "a tutorial from \"Test-Driven React\" that utilizes Jest to practice elementary unit testing",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/trrapp12/jest-test-driven-fizz-buzz/issues"
   },
-  "homepage": "https://github.com/trrapp12/jest-test-driven-fizz-buzz#readme"
+  "homepage": "https://github.com/trrapp12/jest-test-driven-fizz-buzz#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
 }
