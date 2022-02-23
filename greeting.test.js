@@ -1,7 +1,7 @@
-const greeting = term => `WTF is ${term}!!!`;
+const choice = preference => {` I like ${preference} toilet paper!`};
 
-describe('greeting()', () => {
-  it('swears at your stupidity', () => {
-    expect(greeting('marshmallow')).toBe('WTF is marshmallow!!!')
+describe('choice()' , () => {
+  it('says what they like', () => {
+    expect(choice('sandpaper')).toBe("I like sandpaper toilet paper!")
   })
-} )
+})
