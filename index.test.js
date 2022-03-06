@@ -1,8 +1,8 @@
-const fizzBuzz = require('/index');
+const fizzBuzz = require('./index');
 
-describe('fizzbuzz()' , () => {
-  it('returns "Fizzbuzz" for multiples of 3 and 5' , () => {
-    expect(fizzBuzz(15)).toBe('FizzBuzz');
-    expect(fizzBuzz(30)).toBe('FizzBuzz')
-  })
-})
+describe('fizzBuzz()', () => {
+  it('returns fizzBuzz on multiples of 3 and 5', () => {
+    expect(fizzBuzz(15)).toBe('fizzBuzz');
+    expect(fizzBuzz(30)).toBe('fizzBuzz');
+  });
+});
