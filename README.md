@@ -47,6 +47,15 @@ Use of Jest to test basic functions.
 
 
 1. Open your IDE of choice
+
+2. Make sure you have Node and npm installed.  Type 
+
+``` 
+node -v 
+npm -v
+
+```
+If you receive a version type then they are installed. 
   
 2. Create a Folder to hold the program
   - in the terminal type `mkdir jest-test-driven-fizz-buzz` or whatever other name you want to call it. 
@@ -54,14 +63,31 @@ Use of Jest to test basic functions.
   - clone the program into the folder you just created by typing: 
  
  ```
- https://github.com/trrapp12/jest-test-driven-fizz-buzz
+ 
+ git clone ssh://github.com/trrapp12/jest-test-driven-fizz-buzz.git 
+ cd jest-test-driven-fizz-buzz
+
  ```
   
-5. Make sure you are still in the Hangman folder
-6. You should be able to see a program named 'hangman.py'.  If not, navigate back into the Hangman folder.  
-7. Type `python object_oriented_hangman.py` to run the program from the terminal
-8. The program runs from prompts in the Command Line, so watch for prompts and respond accordingly. 
-9. Enjoy!
+5. Make sure you are still in the 'jest-test-driven-fizz-buzz' folder
+6. Install Jest.  Type
+
+```
+
+npm install --save-dev jest@23.6.0
+
+```
+
+8. Now to run the tests you can run the command:
+
+```
+
+npm run test -- --coverage --coverageReporters=text
+
+```
+
+10. The program runs from prompts in the Command Line, so watch for prompts and respond accordingly. 
+11. Enjoy!
 <br>
 <br>
 
