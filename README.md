@@ -54,7 +54,7 @@ Use of Jest to test basic functions.
   - clone the program into the folder you just created by typing: 
  
  ```
- https://github.com/trrapp12/object_oriented_hangman.git
+ https://github.com/trrapp12/jest-test-driven-fizz-buzz
  ```
   
 5. Make sure you are still in the Hangman folder
