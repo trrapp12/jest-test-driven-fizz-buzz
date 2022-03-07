@@ -100,7 +100,7 @@ npm run test -- --coverage --coverageReporters=text
 ### Project published at: 
 ---
 
-[REACT FACTS](https://trrapp12.github.io/React-Jokes/)
+[Jest Test Driven Fizz Buzz](https://trrapp12.github.io/jest-test-driven-fizz-buzz/)
 
 ### More Information:
 ---
