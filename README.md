@@ -86,8 +86,11 @@ npm run test -- --coverage --coverageReporters=text
 
 ```
 
-10. The program runs from prompts in the Command Line, so watch for prompts and respond accordingly. 
-11. Enjoy!
+10. You should see a print out showing the results of the test that looks like this: 
+
+![test results](https://user-images.githubusercontent.com/11747875/156975168-3b70725f-ecd6-40f0-bb28-d4171498217b.JPG)
+
+12. Enjoy!
 <br>
 <br>
 
