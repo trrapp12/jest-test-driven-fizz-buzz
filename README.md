@@ -30,7 +30,7 @@
 
 ---
 
-A basic static page built using React. 
+Use of Jest to test basic functions. 
 
 ### Project v1.0 demonstrates the following:
 ---
@@ -41,6 +41,7 @@ A basic static page built using React.
 - [x] Use of toBe() tests 
 - [x] Testing multiple conditions
 - [x] Classic "fizzBuzz" function
+- [x] An additional function of my own just for extra practice
 
 ### Project published at: 
 ---
