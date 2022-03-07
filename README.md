@@ -1,7 +1,7 @@
 
 # jest-test-driven-fizz-buzz
  
-##### Contributors: Trevor Rapp
+##### Contributors: Trevor Rapp, Trevor Burnham "Test Driven React"
 
 ---
 
@@ -35,15 +35,12 @@ A basic static page built using React.
 ### Project v1.0 demonstrates the following:
 ---
 
-- [x] Use of JSX
-- [x] Use of basic syntax and architecture of React
-- [x] Use of parent > child components
-- [x] Use of custom composable, reusable components
-- [x] Use of Bable and Webpack through Create React App
-- [x] Use of git CLI and GitHub repositories
-- [x] Use of CSS and images in React environment
-- [x] Use of import and export statements
-- [x] Use of local server with webpack
+- [x] Use of package.json
+- [x] Use of webpack
+- [x] Use of Jest
+- [x] Use of toBe() tests 
+- [x] Testing multiple conditions
+- [x] Classic "fizzBuzz" function
 
 ### Project published at: 
 ---
