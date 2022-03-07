@@ -57,7 +57,7 @@ npm -v
 ```
 If you receive a version type then they are installed. 
   
-2. Create a Folder to hold the program
+3. Create a Folder to hold the program
   - in the terminal type `mkdir jest-test-driven-fizz-buzz` or whatever other name you want to call it. 
   - navigate into the folder by typing `cd jest-test-driven-fizz-buzz`
   - clone the program into the folder you just created by typing: 
@@ -69,8 +69,8 @@ If you receive a version type then they are installed.
 
  ```
   
-5. Make sure you are still in the 'jest-test-driven-fizz-buzz' folder
-6. Install Jest.  Type
+4. Make sure you are still in the 'jest-test-driven-fizz-buzz' folder
+5. Install Jest.  Type
 
 ```
 
@@ -78,7 +78,7 @@ npm install --save-dev jest@23.6.0
 
 ```
 
-8. Now to run the tests you can run the command:
+6. Now to run the tests you can run the command:
 
 ```
 
@@ -86,7 +86,7 @@ npm run test -- --coverage --coverageReporters=text
 
 ```
 
-10. You should see a print out showing the results of the test that looks like this: 
+7. You should see a print out showing the results of the test that looks like this: 
 
 ![test results](https://user-images.githubusercontent.com/11747875/156975168-3b70725f-ecd6-40f0-bb28-d4171498217b.JPG)
 
