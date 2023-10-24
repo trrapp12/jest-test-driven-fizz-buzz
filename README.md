@@ -94,7 +94,7 @@ npm run test -- --coverage --coverageReporters=text
 ![test results](https://user-images.githubusercontent.com/11747875/156975168-3b70725f-ecd6-40f0-bb28-d4171498217b.JPG)
 
 12. Enjoy!
-<br>
+
 <br>
 
 ---
