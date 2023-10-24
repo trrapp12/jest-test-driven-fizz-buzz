@@ -26,12 +26,20 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br>
-<br>
 
 ---
 
 ### Description:
 
+<br/>
+
+>“I write them to improve my productivity as a programmer. Making the quality assurance department happy is just a side effect. Unit tests are highly localized. Each test class works within a >single package. It tests the interfaces to other packages, but beyond that it assumes the rest just works.
+>
+>Functional tests are a different animal. They are written to ensure the software as a whole works. They provide quality assurance to the customer and don't care about programmer productivity. >They should be developed by a different team, one who delights in finding bugs.”
+>
+> -― Martin Fowler, Refactoring: Improving the Design of Existing Code
+
+<br/>
 
 *Use of Jest to test basic functions.*
 
