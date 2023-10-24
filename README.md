@@ -1,7 +1,7 @@
 
 # jest-test-driven-fizz-buzz
  
-##### Contributors: Trevor Rapp, Trevor Burnham "Test Driven React"
+#### Contributors: Trevor Rapp, Trevor Burnham "Test Driven React"
 
 *Excerpted from "Test-Driven React", published by The Pragmatic Bookshelf. Copyrights apply to this code. It may not be used to create training material, courses, books, articles, and the like. Contact us if you are in doubt.*
  
@@ -101,24 +101,38 @@ npm run test -- --coverage --coverageReporters=text
 
 ---
 
+### PROJECT V1.0 DEMONSTRATES THE FOLLOWING:
 
-### Project published at: 
+- [X] writing a series of simple unit tests
+
+<br/>
+
 ---
 
-[Jest Test Driven Fizz Buzz](https://trrapp12.github.io/jest-test-driven-fizz-buzz/)
+### CHALLENGES I OVERCAME
 
-### More Information:
+- [X] learing the syntax
+
+<br/>
+
 ---
+
+### MY OWN PERSONAL CONTRIBUTIONS INCLUDED:
+
+- [X] completing the tutorial.
+
+<br/>
+
+---
+
+### ATTRIBUTIONS: 
+
+* *Excerpted from "Test-Driven React", published by The Pragmatic Bookshelf. Copyrights apply to this code. It may not be used to create training material, courses, books, articles, and the like. Contact us if you are in doubt.*
+
+<br/>
+
+---
+
+### YOU CAN FIND ME AT:
 
 \**For more information see my [LinkedIn](https://www.linkedin.com/in/trevor-rapp-042a1037) or return to my [Github](https://github.com/trrapp12)*
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
